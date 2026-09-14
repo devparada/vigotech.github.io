@@ -2765,9 +2765,9 @@
         }
       ],
       "nextEvent": {
-        "date": 1781805600000,
-        "title": "Reunión junio 2026",
-        "url": "https://www.python-vigo.es/posts/reunion-junio-2026/"
+        "date": 1789668000000,
+        "title": "Reunión septiembre 2026",
+        "url": "https://www.python-vigo.es/posts/reunion-septiembre-2026/"
       },
       "videoList": [
         {
@@ -3859,6 +3859,11 @@
           "date": 1781805600000,
           "title": "Reunión junio 2026",
           "url": "https://www.python-vigo.es/posts/reunion-junio-2026/"
+        },
+        {
+          "date": 1789668000000,
+          "title": "Reunión septiembre 2026",
+          "url": "https://www.python-vigo.es/posts/reunion-septiembre-2026/"
         }
       ]
     },
