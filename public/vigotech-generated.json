@@ -74,11 +74,11 @@
         }
       ],
       "nextEvent": {
-        "sourceId": "AIndustriosa-314766877",
-        "title": "Skills de agentes: Unha mirada profunda",
-        "date": 1779989400000,
-        "url": "https://www.meetup.com/aindustriosa/events/314766877/",
-        "location": "A Industriosa - Avda. Gregorio Espino 38 entresuelo 3, Vigo, pw - Vigo - pw - es"
+        "sourceId": "AIndustriosa-316635154",
+        "title": "Vehículos submarinos: robótica para explorar os océanos",
+        "date": 1790416800000,
+        "url": "https://www.meetup.com/aindustriosa/events/316635154/",
+        "location": "A Industriosa - Gregorio Espino, 38, entresuelo 3, Sárdoma, 36205 Vigo, Pontevedra, Spain, Vigo - Vigo - es"
       },
       "videoList": [
         {
@@ -1311,6 +1311,13 @@
           "date": 1779989400000,
           "url": "https://www.meetup.com/aindustriosa/events/314766877/",
           "location": "A Industriosa - Avda. Gregorio Espino 38 entresuelo 3, Vigo, pw - Vigo - pw - es"
+        },
+        {
+          "sourceId": "AIndustriosa-316635154",
+          "title": "Vehículos submarinos: robótica para explorar os océanos",
+          "date": 1790416800000,
+          "url": "https://www.meetup.com/aindustriosa/events/316635154/",
+          "location": "A Industriosa - Gregorio Espino, 38, entresuelo 3, Sárdoma, 36205 Vigo, Pontevedra, Spain, Vigo - Vigo - es"
         }
       ]
     },
